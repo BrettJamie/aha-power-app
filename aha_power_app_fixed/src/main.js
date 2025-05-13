@@ -1,0 +1,1 @@
+document.getElementById('root').innerText = 'Welcome to Aha Power Solutions!'
